@@ -1,0 +1,137 @@
+--- 8.253621578216553 seconds ---
+read csv
+--- 58.650641202926636 seconds ---
+--- 59.891518115997314 seconds ---
+left join with 计息方式代码
+left join with 货币代码
+--- 62.07906699180603 seconds ---
+calculating base
+--- 109.84117913246155 seconds ---
+--- 157.66768097877502 seconds ---
+--- 203.93560361862183 seconds ---
+--- 237.34799122810364 seconds ---
+--- 270.4729115962982 seconds ---
+--- 316.2463183403015 seconds ---
+calculating IR
+--- 362.15582489967346 seconds ---
+--- 453.5031068325043 seconds ---
+--- 560.5992732048035 seconds ---
+--- 683.4019973278046 seconds ---
+--- 760.9491631984711 seconds ---
+--- 853.2669966220856 seconds ---
+calculating LR
+--- 867.429034948349 seconds ---
+--- 929.7322497367859 seconds ---
+--- 1008.6642220020294 seconds ---
+--- 1102.147754907608 seconds ---
+--- 1212.2803213596344 seconds ---
+--- 1337.4179270267487 seconds ---
+--- 1385.2417879104614 seconds ---
+--- 1510.4452085494995 seconds ---
+calculating LRN
+--- 1525.9561924934387 seconds ---
+--- 1621.2566678524017 seconds ---
+--- 1731.746899843216 seconds ---
+--- 1858.129384279251 seconds ---
+--- 2001.0725951194763 seconds ---
+--- 2158.5851209163666 seconds ---
+--- 2238.8779723644257 seconds ---
+--- 2364.3578174114227 seconds ---
+calculating AI
+--- 2444.7237203121185 seconds ---
+--- 2525.455882549286 seconds ---
+--- 2606.2711033821106 seconds ---
+--- 2687.2544689178467 seconds ---
+--- 2768.990357875824 seconds ---
+--- 2850.519084215164 seconds ---
+--- 2932.339000225067 seconds ---
+--- 2998.8310792446136 seconds ---
+Exporting subject code:334601
+--- 4026.817726612091 seconds ---
+Exporting subject code:334602
+--- 4399.367573976517 seconds ---
+Exporting subject code:334605
+--- 4416.105057001114 seconds ---
+Exporting subject code:346001
+--- 4416.842141628265 seconds ---
+Exporting subject code:3347
+--- 4417.539635896683 seconds ---
+Exporting subject code:345501
+--- 4418.340077161789 seconds ---
+Exporting subject code:345502
+--- 4419.048565864563 seconds ---
+Exporting subject code:333601
+--- 4419.807515382767 seconds ---
+Exporting subject code:333602
+--- 4420.529026508331 seconds ---
+Exporting subject code:343201
+--- 4421.233515501022 seconds ---
+Exporting subject code:333603
+--- 4421.956026315689 seconds ---
+Exporting subject code:343205
+--- 4424.637942790985 seconds ---
+Exporting subject code:343206
+--- 4428.887853384018 seconds ---
+Exporting subject code:343207
+--- 4432.404453992844 seconds ---
+Exporting subject code:333605
+--- 4433.095930814743 seconds ---
+Exporting subject code:342199
+--- 4437.0867693424225 seconds ---
+Exporting subject code:330301
+--- 4437.792256355286 seconds ---
+Exporting subject code:330302
+--- 4438.543801307678 seconds ---
+Exporting subject code:330303
+--- 4439.229273557663 seconds ---
+Exporting subject code:333001
+--- 4440.015826225281 seconds ---
+Exporting subject code:333002
+--- 4440.726329565048 seconds ---
+Exporting subject code:342101
+--- 4444.507115840912 seconds ---
+Exporting subject code:342102
+--- 4472.42506814003 seconds ---
+Exporting subject code:342103
+--- 4481.973829746246 seconds ---
+Exporting subject code:3416
+--- 4482.637286424637 seconds ---
+Exporting subject code:330201
+--- 4491.652722835541 seconds ---
+Exporting subject code:330202
+--- 4493.647263288498 seconds ---
+Exporting subject code:330203
+--- 4494.322739601135 seconds ---
+Exporting subject code:342108
+--- 4495.05725979805 seconds ---
+Exporting subject code:333403
+--- 4495.753695487976 seconds ---
+Exporting subject code:352601
+--- 4496.429173707962 seconds ---
+Exporting subject code:342105
+--- 4497.099514245987 seconds ---
+Exporting subject code:330209
+--- 4499.489587545395 seconds ---
+Exporting subject code:330210
+--- 4501.999402523041 seconds ---
+Exporting subject code:330212
+--- 4502.678119897842 seconds ---
+Exporting subject code:345701
+--- 4503.582073688507 seconds ---
+Exporting subject code:345702
+--- 4504.459707736969 seconds ---
+Exporting subject code:330213
+--- 4505.215411663055 seconds ---
+Exporting subject code:346099
+--- 4505.954078674316 seconds ---
+Exporting subject code:330101
+--- 4703.028099536896 seconds ---
+Exporting subject code:330106
+--- 4703.822650671005 seconds ---
+Exporting subject code:330108
+--- 4705.191632509232 seconds ---
+Exporting subject code:330109
+--- 4710.575582742691 seconds ---
+Exporting subject code:330110
+--- 4711.966963291168 seconds ---
+--- 4711.9679646492 seconds ---
