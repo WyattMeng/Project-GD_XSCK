@@ -7,14 +7,14 @@ Created on Wed Jul  4 17:43:19 2018
 
 from datetime import date
 #audit_year = 2017
-CY = 2017
-NY = CY + 1
-FY = CY + 5
-w7 = date(CY,12,31)
-y7 = date(NY,1,31)
-z7 = date(NY,3,30)
-aa7 = date(NY,12,31)
-ab7 = date(FY,12,31)
+CY = 2018
+NY = CY + 1 #2019
+FY = CY + 5 #2023
+w7 = date(CY,6,30)
+y7 = date(CY,7,31)
+z7 = date(CY,9,30)
+aa7 = date(NY,6,30)
+ab7 = date(FY,6,30)
 
 ag7 = w7
 ah7 = y7
